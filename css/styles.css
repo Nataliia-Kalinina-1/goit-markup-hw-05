@@ -437,9 +437,6 @@ button:focus {
   color: #f4f4fd;
   max-width: 264px;
 }
-.footer-social-links {
-  margin-bottom: 100px;
-}
 
 .footer-social-text {
   font-weight: 500;
@@ -753,6 +750,7 @@ button:focus {
   border-radius: 2px;
   border: 1px solid rgba(46, 47, 66, 0.4);
   fill: transparent;
+  margin-right: 8px;
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1),
     border 250ms cubic-bezier(0.4, 0, 0.2, 1),
     fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
